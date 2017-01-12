@@ -1,0 +1,1 @@
+DenisRisticCroatianStemmer plugin for ElasticSearch
